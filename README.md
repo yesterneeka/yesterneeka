@@ -8,7 +8,7 @@ If an idea stays in my head for more than 10 seconds… it’s going into VSCode
 ### Few recent projects I have worked on:
 Flood Forecast Model** using Sentinel-2 NDWI + ERA5/GloFAS  
 Transformer-based NLP experiments** (SmolLM, DPO, LLaMA-style)  
-GameNow V3 UI/UX** — product + design improvements @ Jazz
+GameNow V3 UI/UX — product + design improvements @ Jazz
 
 I basically alternate between geospatial modeling, React components, and random micro-obsessions.
 
